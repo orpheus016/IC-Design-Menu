@@ -7,4 +7,4 @@ Multiplexer combined with D Flip Flop to simulate how data storage and timing wo
 
 [NLMS](https://github.com/farhan-sw/nlms)
 
-NLMS for noise reduction
+NLMS for noise reduction from FIR Filter (Adaptive, adjusting to input)
